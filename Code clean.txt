@@ -1,0 +1,49 @@
+Cuestionario sobre "Código limpio" de Robert Cecil Martin:
+Prólogo:
+1. ¿Qué propósito tiene el prólogo en el libro "Código limpio"?
+Su proposito es dar a conocer el desarrollo de pensamiento para realizar el libro
+2. ¿Quién es el autor del prólogo y qué relación tiene con Robert Cecil Martin?
+James O. Coplien.
+3. ¿Cuál es la importancia de escribir código limpio según el prólogo?
+Crear código legible es tan importante como crear código ejecutable.
+
+Introducción:
+4. ¿Cuál es el objetivo principal del libro "Código limpio"?
+Aprender a crear código limpio es complicado. Requiere algo más que conocer principios y patrones. Tiene que sudar. Debe practicarlo y fallar. Debe ver cómo otros practican y fallan. Debe observar cómo se caen y recuperan el paso. Debe ver cómo agonizan en cada decisión y el precio que pagan por tomar decisiones equivocadas.
+5. Mencionar al menos tres beneficios de tener código limpio en un proyecto de desarrollo de software.
+Mejora la calidad del software, acelera el tiempo de desarrollo y mejora la colaboración en equipo.
+6. ¿Por qué es importante el aspecto económico al considerar el mantenimiento de código limpio?
+Escribir un código fácil de leer te permite optimizar el 90% del tiempo invertido en ello.
+Sobre la imagen de cubierta:
+
+7. ¿Qué representa la imagen de cubierta del libro?
+La imagen de la portada es M104: la Galaxia del Sombrero. M104 se encuentra en Virgo, a unos 30 millones de años luz, y su núcleo es un súper agujero negro que pesa aproximadamente mil millones de masas solares.
+8. ¿Cuál es el mensaje que se intenta transmitir a través de la imagen de cubierta?
+Ni idea
+Capítulo 1: Código limpio:
+
+9. ¿Cuál es la metáfora utilizada para describir el código limpio?
+Así como un buen libro debe tener un lenguaje claro, una estructura coherente y ser fácil de seguir, el código limpio debe ser comprensible, bien estructurado y fácil de leer para los programadores.
+10. Mencionar al menos tres características de un código limpio según el autor.
+Legibilidad,Mantenibilidad,Simplicidad.
+11. ¿Cuál es la importancia de que el código sea fácil de leer?
+Facilita la colaboración, reduce errores y ahorra tiempo y esfuerzo.
+
+Capítulo 2: Nombres con sentido:
+
+12. ¿Por qué los nombres bien elegidos son importantes en la escritura de código?
+Los nombres bien elegidos son importantes en la escritura de código por varias razones:
+Comprensión: Los nombres descriptivos y significativos facilitan la comprensión del propósito y la funcionalidad de variables, funciones y clases. Ayudan a los desarrolladores a entender rápidamente qué hace una porción de código sin tener que revisar su implementación interna.
+Mantenibilidad: Los nombres bien elegidos hacen que el código sea más fácil de mantener. Cuando el código es legible y los nombres reflejan con precisión su propósito, los desarrolladores pueden realizar cambios y correcciones de manera más rápida y segura, sin necesidad de dedicar mucho tiempo a descifrar qué hace cada parte del código.
+Comunicación: El código es leído no solo por la máquina, sino también por otros desarrolladores. Los nombres bien elegidos ayudan a comunicar la intención y el diseño del código a otros miembros del equipo, fomentando una mejor colaboración y comprensión compartida.
+
+13. Mencionar tres pautas sugeridas por el autor para nombrar variables, funciones y clases.
+El autor sugiere las siguientes pautas para nombrar variables, funciones y clases:
+Variables: Los nombres de variables deben ser descriptivos y representar claramente su propósito. Deben evitarse nombres genéricos o abreviaturas confusas. Además, se recomienda utilizar nombres en singular para variables individuales y nombres en plural para colecciones o arreglos.
+Funciones: Los nombres de funciones deben ser verbos o frases verbales que describan la acción que realizan. Deben ser claros y concisos, evitando hacer demasiado en una sola función. Los nombres de funciones deben ser lo suficientemente descriptivos para indicar lo que hacen sin necesidad de revisar su implementación interna.
+Clases: Los nombres de las clases deben ser sustantivos o frases nominales que representen claramente el concepto o la entidad que la clase representa. Los nombres de las clases deben ser significativos y expresar su responsabilidad principal dentro del sistema.
+14. ¿Cuál es el efecto de utilizar nombres genéricos o ambiguos en el código?
+Utilizar nombres genéricos o ambiguos en el código tiene varios efectos negativos:
+Confusión: Nombres genéricos o ambiguos pueden llevar a una falta de comprensión clara sobre el propósito y la funcionalidad de una variable, función o clase. Esto dificulta la lectura y comprensión del código por parte de otros desarrolladores, lo que puede resultar en errores o malentendidos.
+Mantenibilidad: Cuando los nombres son vagos o poco descriptivos, es más difícil realizar cambios y mejoras en el código. Los desarrolladores pueden tener dificultades para entender qué hace una parte del código y cómo se relaciona con el resto del sistema, lo que aumenta la posibilidad de introducir errores al realizar modificaciones.
+Comunicación deficiente: Los nombres genéricos o ambiguos no transmiten de manera efectiva la intención y el diseño del código. Dificultan la comunicación entre los miembros del equipo y pueden llevar a malentendidos o interpretaciones incorrectas del código.
